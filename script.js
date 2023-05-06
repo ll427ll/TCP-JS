@@ -66,3 +66,6 @@ function printDate() {
     document.getElementById("date").innerHTML = Date();
 }
 
+var nun = 10; // 숫자
+var myName = "홍길동"; //문자열
+var str; //undefined
