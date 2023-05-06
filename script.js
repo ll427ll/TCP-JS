@@ -51,3 +51,8 @@ document.write(4*5);
 
 //script
 document.getElementById("text").innerHTML = "여러분들을 환영합니다!";
+
+//script
+function printDate() {
+    document.getElementById("date").innerHTML = Date();
+}
