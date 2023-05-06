@@ -119,4 +119,6 @@ String(true); // 문자열 "true"
 Boolean(0); // 불리언 false
 Object(3); // new Number(3)와 동일한 결과로 숫자 3
 
+String(true); // 문자열 "true"
+false.toString(); // 문자열"false"
 
