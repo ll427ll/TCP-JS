@@ -48,3 +48,5 @@ str.innerHTML = "이 문장으로 바뀌었습니다!!";
 
 //script
 document.write(4*5);
+
+<button onclick="document.(4*5)">버튼을 눌러주세요.</button>
