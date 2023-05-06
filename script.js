@@ -62,3 +62,7 @@ function printDate() {
     document.getElementById("date").innerHTML = Date();
 }
 
+function printDate() {
+    document.getElementById("date").innerHTML = Date();
+}
+
