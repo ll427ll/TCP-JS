@@ -146,12 +146,19 @@ var num; // 이 재선언문은 무시됨.
 var num; // undefined
 num = 10; // 10
 
+var x = 10, y = 4;
+document.write(x + y + "<br>"); // 14
+document.write(x - y + "<br>"); // 6
+document.write(x * y + "<br>"); // 40
+document.write(x / y + "<br>"); // 2.5
+document.write(x % y); // 2
+
 var x = 10, y = 10, z = 10;
 x = x - 5;
 y -= 5; // y = y - 5 와 같은 표현임.
 z =- 5; // z = -5 와 같은 표현임.
 
-
+var x = 10, y = 10;
 
 
 
