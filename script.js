@@ -79,3 +79,6 @@ var firstNum = "이것도 문자열입니다."; // 큰따옴표를 사용한 문
 var secondNum = '이것도 문자열입니다.'; // 작은따옴표를 사용한 문자열
 var thirdNum = "나의 이름은 '홍길동'이야." // 작은따옴표는 큰따옴표로 둘러싸인 문자열에만 포함될 수 있음.
 var fourthNum = '나의 이름은 "홍길동"이야.' // 큰따옴표는 작은 따옴표로 둘러싸인 문자열에만 포함될 수 있음.
+var num = 10;
+var str = "Java Script";
+document.getElementById("result").innerHTML = (num + str); // 10JavaScript
