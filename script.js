@@ -67,5 +67,10 @@ function printDate() {
 }
 
 var nun = 10; // 숫자
-var myName = "홍길동"; //문자열
-var str; //undefined
+var myName = "홍길동"; // 문자열
+var str; // undefined
+
+var firstNum = 10; // 소숫점을 사용하지 않은 표현
+var secondNum = 10.00; // 소숫점을 사용한 표현
+var thirdNum = 10e6; // 1000000
+var fourthNum = 10e-6 // 0.00001
