@@ -90,3 +90,9 @@ document.getElementById("result").innerHTML = (firstNum == secondNum); // false
 var sym = Symbol("javascript"); // symbol 타입
 var symObj = Object(sym); // object 타입
 
+typeof 10; // number 타입
+typeof "문자열"; // string 타입
+typeof true; // boolean 타입
+typeof undefined; // undefined 타입
+typeof null; // object 타입
+
