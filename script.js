@@ -130,3 +130,14 @@ date.getTime(); //1463394925632 -> 1970년 1월 1일부터 현재까지의 시�
 
 Number(true); // 숫자 1
 Number(false); // 숫자 0
+
+var month; // month라는 이름의 변수 선언
+date = 25; // date라는 이름의 변수를 묵시적으로 선언
+var month; // 변수의 선언
+var date = 25; // 변수의 선언과 동시에 초기화
+month = 12; // 변수의 초기화
+
+
+
+
+
