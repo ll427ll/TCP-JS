@@ -37,12 +37,14 @@ document.getElementById("text").innerHTML = x;
     // 이렇게 두 줄 주석 안에 또 다른 한 줄 주석을 삽입할 수 있습니다.
 주석입니다. */
 
+//script
 function alerDialogBox() {
   alert("확인을 누를 때까지 다른 작업을 할 수 없어요!");
 }
 
+//script
 var str = document.getElementById("text");
 str.innerHTML = "이 문장으로 바뀌었습니다!!";
 
-
-
+//script
+document.write(4*5);
